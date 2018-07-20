@@ -1,7 +1,12 @@
-**Error details**
+# Error details
 
+Steps to install Detox : https://github.com/wix/detox/blob/master/docs/Introduction.GettingStarted.md
+Steps to Run Detox on Android : https://github.com/wix/detox/blob/master/docs/README.md
 
-CF-LP00152:android user$ ./gradlew assembleAndroidTest
+# Requirement : I want to generate ./gradlew assembleAndroidTest
+# Note : I am able to generate ./gradlew assembleDebug*
+
+# CF-LP00152:android user$ ./gradlew assembleAndroidTest
 
 > Configure project :app 
 Configuration 'compile' in project ':app' is deprecated. Use 'implementation' instead.
