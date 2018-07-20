@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/neeraj.kumar/Neeraj/Projects/sampleApp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/Users/neeraj.kumar/Neeraj/Projects/sampleApp/android/app/build/intermediates/pre-dexed/release/com.facebook.fresco-fbcore-1.3.0_4d59c0ec8ad5cd3a073df0f6c26b2b81899c493a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/neeraj.kumar/Neeraj/Projects/sampleApp/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/neeraj.kumar/Neeraj/Projects/sampleApp/android/app/build/intermediates/pre-dexed/release/internal_impl-23.0.1_5c06141f4a9652a33ca7827a4beae47499d3efe0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/neeraj.kumar/Neeraj/Projects/sampleApp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/Users/neeraj.kumar/Neeraj/Projects/sampleApp/android/app/build/intermediates/pre-dexed/release/com.facebook.fresco-fresco-1.3.0_f86e9c8f45e3a216a0cf16bb1c8739aa90ef7686.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/neeraj.kumar/Neeraj/Projects/sampleApp/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/neeraj.kumar/Neeraj/Projects/sampleApp/android/app/build/intermediates/pre-dexed/release/com.facebook.soloader-soloader-0.1.0_a0e70492f7d6cc4d5300f22761fbfa80e2395738.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/neeraj.kumar/Neeraj/Projects/sampleApp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/Users/neeraj.kumar/Neeraj/Projects/sampleApp/android/app/build/intermediates/pre-dexed/release/com.facebook.fresco-imagepipeline-base-1.3.0_8c9b015d0a2fde9c8136857cb6f1c86d536ab911.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/neeraj.kumar/Neeraj/Projects/sampleApp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/Users/neeraj.kumar/Neeraj/Projects/sampleApp/android/app/build/intermediates/pre-dexed/release/com.facebook.fresco-imagepipeline-1.3.0_79f1472e581e20e1ba6112f6b45ace461ac14545.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/neeraj.kumar/Neeraj/Projects/sampleApp/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/neeraj.kumar/Neeraj/Projects/sampleApp/android/app/build/intermediates/pre-dexed/release/com.android.support-appcompat-v7-23.0.1_03ac5756bf05e09a5575ff6ef0f8b7feae94fa3a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/neeraj.kumar/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/neeraj.kumar/Neeraj/Projects/sampleApp/android/app/build/intermediates/pre-dexed/release/support-annotations-23.0.1_98bc6172e02818e253c1c78d743bc5915400e2dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/neeraj.kumar/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/neeraj.kumar/Neeraj/Projects/sampleApp/android/app/build/intermediates/pre-dexed/release/okio-1.13.0_1d7d7051d533054e87851c02a2576a18edeb842e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/neeraj.kumar/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/neeraj.kumar/Neeraj/Projects/sampleApp/android/app/build/intermediates/pre-dexed/release/bolts-tasks-1.4.0_a50d989bc1bb725bbeffb56626789bce4e969e84.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/neeraj.kumar/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/neeraj.kumar/Neeraj/Projects/sampleApp/android/app/build/intermediates/pre-dexed/release/okhttp-3.6.0_8844f2a032882a3e5dd25d5c11239c28008100a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/neeraj.kumar/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/Users/neeraj.kumar/Neeraj/Projects/sampleApp/android/app/build/intermediates/pre-dexed/release/okhttp-urlconnection-3.6.0_51d0019080965adf9baa6132fa8bc800ec8f8f5a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/neeraj.kumar/Neeraj/Projects/sampleApp/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/neeraj.kumar/Neeraj/Projects/sampleApp/android/app/build/intermediates/pre-dexed/release/com.android.support-support-v4-23.0.1_9aedc9c8122ad8c05bb93cdc893106cb58f06962.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/neeraj.kumar/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/neeraj.kumar/Neeraj/Projects/sampleApp/android/app/build/intermediates/pre-dexed/release/javax.inject-1_657ed3623b1d72f0cab97a7f71a747804d552716.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/neeraj.kumar/Neeraj/Projects/sampleApp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/Users/neeraj.kumar/Neeraj/Projects/sampleApp/android/app/build/intermediates/pre-dexed/release/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_5aa560f7cb5da76484d13f23e0738a9cbdcdbb74.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/neeraj.kumar/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/neeraj.kumar/Neeraj/Projects/sampleApp/android/app/build/intermediates/pre-dexed/release/staticlayout-proxy-1.0_83ea9396a37d26ed85a578871b8166e869712883.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/neeraj.kumar/Neeraj/Projects/sampleApp/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/neeraj.kumar/Neeraj/Projects/sampleApp/android/app/build/intermediates/pre-dexed/release/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_194f4d44c0cc2dc07ca82817b6bb002fc0d18eef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/neeraj.kumar/Neeraj/Projects/sampleApp/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/neeraj.kumar/Neeraj/Projects/sampleApp/android/app/build/intermediates/pre-dexed/release/infer-annotations-4.0_2a328e2923b6fc7a58660bf92f9ceb4d79bb151b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/neeraj.kumar/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/neeraj.kumar/Neeraj/Projects/sampleApp/android/app/build/intermediates/pre-dexed/release/jsr305-3.0.0_11590ff2ef0b2ea0447ea3daa27e1c8832c4f7b8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/neeraj.kumar/Neeraj/Projects/sampleApp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/Users/neeraj.kumar/Neeraj/Projects/sampleApp/android/app/build/intermediates/pre-dexed/release/com.facebook.fresco-drawee-1.3.0_f700af5db0b51e62632eb760e73ffed4ef65a3d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/neeraj.kumar/Neeraj/Projects/sampleApp/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e31331bdf6b5952badadbfc171f04b95c55d3b16">
+        <dex dex="/Users/neeraj.kumar/Neeraj/Projects/sampleApp/android/app/build/intermediates/pre-dexed/release/com.facebook.react-react-native-0.55.4_7bdfa895d86d6a8598d117dbecb4c138055198ad.jar" />
+    </item>
+
+</items>

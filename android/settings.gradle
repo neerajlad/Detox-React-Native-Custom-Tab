@@ -1,0 +1,7 @@
+rootProject.name = 'sampleApp'
+
+include ':app'
+include ':react-native-custom-tabs'
+project(':react-native-custom-tabs').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-custom-tabs/android')
+include ':detox'
+project(':detox').projectDir = new File(rootProject.projectDir, '../node_modules/detox/android/detox')
