@@ -16,3 +16,5 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 /android/build
+android/app/build/intermediates/incremental/debug-mergeJavaRes/merge-state
+android/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/03NusEX3OuBbPNoXDN_F9DxbOwU=
